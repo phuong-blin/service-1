@@ -28,7 +28,7 @@ func main() {
 	case "div": 
 		ans = div(x, y)
 	default: 
-		fmt.Println("What the hell")
+		fmt.Println("What the hell :)")
 	}
 
 	fmt.Printf("= %d", ans)
